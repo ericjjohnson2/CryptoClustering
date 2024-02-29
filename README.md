@@ -32,4 +32,4 @@ This project underscores the utility of PCA in enhancing data clustering, partic
 
 ## Future Directions
 
-In future projects, I plan to explore other dimensionality reduction techniques such as t-Distributed Stochastic Neighbor Embedding (t-SNE) and Uniform Manifold Approximation and Projection (UMAP) to compare their effectiveness in clustering cryptocurrencies. These methods could offer different insights into the market dynamics and help in identifying niche segments more accurately.
+In future projects, I plan to explore other dimensionality reduction techniques to compare their effectiveness in clustering cryptocurrencies which could hopefully offer different insights into market dynamics. 
