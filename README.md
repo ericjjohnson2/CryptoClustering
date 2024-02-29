@@ -4,7 +4,7 @@
 This project explores Crypto Clustering, predicting cryptocurrency fluctuations over 24-hour and 7-day intervals, utilizing Principal Component Analysis (PCA) to enhance clustering outcomes.
 
 ### Objective
-The primary aim of this project is to leverage PCA for improved clustering, facilitating a deeper understanding of cryptocurrency market behaviors. This approach simplifies the data dimensionality and also yields clusters that are more interpretable and insightful, compared to those derived without PCA.
+The goal of this project is to leverage PCA for improved clustering, to better understand cryptocurrency market behaviors and to test the insights with and without using Principal Component Analysis (PCA). 
 
 ## Techniques 
 
@@ -17,9 +17,9 @@ The primary aim of this project is to leverage PCA for improved clustering, faci
 
 ## Key Findings
 
-- **PCA Efficacy**: The application of PCA significantly improved the clustering quality, making the clusters more distinct and interpretable.
-- **Optimal Cluster Count**: The project provides insights into the optimal number of clusters for both the original and PCA-transformed data, utilizing elbow curves.
-- **Impact of Dimensionality Reduction**: The use of PCA for feature reduction not only simplifies the dataset but also enhances the clustering outcome, thereby facilitating a more nuanced understanding of cryptocurrency market dynamics.
+- **PCA Efficacy**: Using PCA significantly improved the clustering quality, making the clusters more distinct and easy to interpret.
+- **Optimal Cluster Count**: Using the PCA-transformed data and elbow curves helped to determine that four clusters was the optimal number in this case.
+- **Impact of Dimensionality Reduction**: The use of PCA not only simplifies the dataset but also enhances the clustering, facilitating a more nuanced understanding of cryptocurrency market dynamics.
 
 ## Conclusion
 
