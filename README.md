@@ -1,4 +1,4 @@
-# Cryptocurrency Clustering: Cryptocurrency Market Dynamics with Dimensionality Reduction
+# Cryptocurrency Clustering: Market Dynamics with Dimensionality Reduction
 
 ## Overview
 This project explores Crypto Clustering, predicting cryptocurrency fluctuations over 24-hour and 7-day intervals, utilizing Principal Component Analysis (PCA) to enhance clustering outcomes. Clustering can be used by analysts to recognize market trends and identify otherwise obscure market segments. 
