@@ -8,7 +8,7 @@ The goal of this project is to leverage PCA for improved clustering, to better u
 
 ## Data Source
 
-The dataset employed in this project originates from the cryptocurrency market data, provided during my participation in a data analytics bootcamp, the [source](https://git.bootcampcontent.com/University-of-Minnesota) is however restricted. 
+The dataset employed in this project originates from the cryptocurrency market data, provided during my participation in a data analytics bootcamp. Here is the [source](https://git.bootcampcontent.com/University-of-Minnesota). 
 
 
 ## Techniques 
