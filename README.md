@@ -13,11 +13,11 @@ The goal of this project is to leverage PCA for improved clustering, to better u
 - Data Normalization
 
 ### Clustering Analysis
-* Comparing original scaled data with the optimized PCA data
-
+* Comparing original scaled data with the optimized PCA data<br/>
+![Clustering Scatter Plot with PCA](img/pca_scatter.png "Clustering Scatter Plot with PCA")
 ## Key Findings
 
-- **PCA Efficacy**: Using PCA significantly improved the clustering quality, making the clusters more distinct and easy to interpret.
+- **PCA Effectiveness**: Using PCA significantly improved the clustering quality, making the clusters more distinct and easy to interpret.
 - **Optimal Cluster Count**: Using the PCA-transformed data and elbow curves helped to determine that four clusters was the optimal number in this case.
 - **Impact of Dimensionality Reduction**: The use of PCA not only simplifies the dataset but also enhances the clustering, facilitating a more nuanced understanding of cryptocurrency market dynamics.
 
